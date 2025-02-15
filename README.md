@@ -32,16 +32,3 @@
   </a>
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=borogeuse&label=Views&color=6b6b6b&style=flat-square" alt="borogeuse" />
-</p>
-
-<style>
-  p a {
-    text-decoration: none;
-  }
-  p a img {
-    vertical-align: middle;
-    display: inline-block;
-  }
-</style>
